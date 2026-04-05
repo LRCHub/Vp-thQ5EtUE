@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "base_track": "「君と私の歌」",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-04-05T13:56:26.484618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「君と私の歌」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_「君と私の歌」_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「君と私の歌」",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_「君と私の歌」_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "「君と私の歌」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_「君と私の歌」_=LOVE.lrc",
+      "repo_name": "gml0fQ9zmqQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "「君と私の歌」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_02_「君と私の歌」_=LOVE.lrc",
+      "repo_name": "uMXbT-R-0xc"
+    }
+  ]
+}
